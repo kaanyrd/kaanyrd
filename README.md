@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">I'm Kaan Yardımcı. I am a 4th year student of IAU Software Engineering. I want to develop in the field of Web Develop / Front-End.(React.js)</div>  
+### <div align="center">I'm Kaan Yardımcı. I am the Frontend Developer at Amadeus. I'm tring new things... JUST WAIT ME!</div>  
   
 
 - 🔗 [for LinkedIn](https://www.linkedin.com/in/kaanyardimci/)  
